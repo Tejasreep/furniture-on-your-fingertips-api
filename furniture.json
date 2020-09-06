@@ -1,0 +1,62 @@
+[{
+    "id":0,
+    "name":"Sofa",
+    "price":"100$",
+    "category":"LivingRoom",
+    "src":"./designs/LShapeSofa.jpg"
+},
+{
+    "id":5,
+    "name":"Kingsize Bed",
+    "price":"1250$",
+    "category":"BedRoom",
+    "src":"./designs/bedRoom1.jpg"
+},
+{
+    "id":2,
+    "name":"Dining table",
+    "price":"150$",
+    "category":"kitchen",
+    "src":"./designs/Dining table.jpg"
+},
+{
+    "id":3,
+    "name":"Dining table",
+    "price":"150$",
+    "category":"kitchen",
+    "src":"./designs/Dining table4.jpg"
+},
+{
+    "id":4,
+    "name":"Dining table",
+    "price":"250$",
+    "category":"kitchen",
+    "src":"./designs/dining table6.jpg"
+},
+{
+    "id":6,
+    "name":"Kingsize Bed",
+    "price":"1550$",
+    "category":"BedRoom",
+    "src":"./designs/bedRoom2.jpg"
+},
+{
+    "id":7,
+    "name":"Kingsize Bed",
+    "price":"1750$",
+    "category":"BedRoom",
+    "src":"./designs/bedRoom3.jpg"
+},{
+    "id":8,
+    "name":"Sofa",
+    "price":"150$",
+    "category":"LivingRoom",
+    "src":"./designs/sofa1.jpg"
+},
+{
+    "id":1,
+    "name":"Sofa",
+    "price":"50$",
+    "category":"LivingRoom",
+    "src":"./designs/greySofa.jpeg"
+}]
